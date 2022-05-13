@@ -1,4 +1,4 @@
-# ShopifyInternshipChallenge
+# Shopify-Internship-Challenge
 
 This project was done as part of the Shopify Data Science Internship application.
 
